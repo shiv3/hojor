@@ -1,6 +1,6 @@
 # Hojor
 
-TODO: Write a gem description
+unko
 
 ## Installation
 

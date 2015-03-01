@@ -1,6 +1,6 @@
 # Hojor
 
-unko
+GORIRA
 
 ## Installation
 
@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+require 'hojor' 
+
+Hojor.go
 
 ## Contributing
 

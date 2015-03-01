@@ -1,5 +1,5 @@
 require "hojor/version"
 
 module Hojor
-  # Your code goes here...
+  puts "gorira"
 end

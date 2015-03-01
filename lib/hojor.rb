@@ -1,5 +1,7 @@
 require "hojor/version"
 
 module Hojor
-  puts "gorira"
+  def self.gorira
+    'Hello Gorira!'
+  end
 end
